@@ -1,0 +1,12 @@
+{
+  "code": "1/d/7/f/1d7f0987000cea4d14908fe679af4e36ea3632ef_10806799_1356.jpg",
+  "original_filename": "10806799-1356.jpg",
+  "mime_type": "image/jpeg",
+  "size": 16070,
+  "extension": "jpg",
+  "_links": {
+    "download": {
+      "href": "http://test-dev-feature-10.akeneo.com/api/rest/v1/media-files/1/d/7/f/1d7f0987000cea4d14908fe679af4e36ea3632ef_10806799_1356.jpg/download"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "code": "caps",
+  "attributes": [
+    "sku",
+    "name",
+    "description",
+    "price",
+    "color",
+    "picture"
+  ],
+  "attribute_as_label": "name",
+  "attribute_as_image": "picture",
+  "attribute_requirements": {
+    "ecommerce": [
+      "sku",
+      "name",
+      "description",
+      "price",
+      "color"
+    ],
+    "tablet": [
+      "sku",
+      "name",
+      "description",
+      "price"
+    ]
+  },
+  "labels": {
+    "en_US": "Caps",
+    "fr_FR": "Casquettes"
+  }
+}

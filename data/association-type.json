@@ -1,0 +1,9 @@
+{
+  "code": "upsell",
+  "labels": {
+    "en_US": "Upsell",
+    "fr_FR": "Vente incitative"
+  },
+  "is_quantified": false,
+  "is_two_way": false
+}

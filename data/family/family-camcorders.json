@@ -1,0 +1,50 @@
+{
+  "code": "camcorders",
+  "attributes": [
+    "description",
+    "image_stabilizer",
+    "name",
+    "optical_zoom",
+    "picture",
+    "power_requirements",
+    "price",
+    "release_date",
+    "sensor_type",
+    "sku",
+    "total_megapixels",
+    "weight"
+  ],
+  "attribute_as_label": "name",
+  "attribute_as_image": "picture",
+  "attribute_requirements": {
+    "ecommerce": [
+      "description",
+      "name",
+      "price",
+      "sensor_type",
+      "sku",
+      "total_megapixels"
+    ],
+    "mobile": [
+      "description",
+      "name",
+      "price",
+      "sensor_type",
+      "sku",
+      "total_megapixels"
+    ],
+    "print": [
+      "description",
+      "name",
+      "price",
+      "sensor_type",
+      "sku",
+      "total_megapixels"
+    ]
+  },
+  "labels": {
+    "en_US": "Camcorders",
+    "fr_FR": "Caméscopes numériques",
+    "de_DE": "Digitale Videokameras"
+  }
+}

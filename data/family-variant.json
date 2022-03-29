@@ -1,0 +1,29 @@
+{
+  "code": "shoesVariant",
+  "labels": {
+    "en_US": "Shoes variant",
+    "fr_FR": "Variante de chaussures"
+  },
+  "variant_attribute_sets": [
+    {
+      "level": 1,
+      "attributes": [
+        "color",
+        "material"
+      ],
+      "axes": [
+        "color"
+      ]
+    },
+    {
+      "level": 2,
+      "attributes": [
+        "sku",
+        "size"
+      ],
+      "axes": [
+        "size"
+      ]
+    }
+  ]
+}

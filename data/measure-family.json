@@ -1,0 +1,20 @@
+{
+  "code": "Area",
+  "standard": "SQUARE_METER",
+  "units": [
+    {
+      "code": "SQUARE_MILLIMETER",
+      "convert": {
+        "mul": "0.001"
+      },
+      "symbol": "mm²"
+    },
+    {
+      "code": "SQUARE_CENTIMETER",
+      "convert": {
+        "mul": "0.001"
+      },
+      "symbol": "cm²"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "code": "auto_exposure",
+  "type": "pim_catalog_boolean",
+  "group": "technical",
+  "group_labels": {
+    "de_DE": "Technische",
+    "en_US": "Technical",
+    "fr_FR": "Technique"
+  },
+  "localizable": false,
+  "scopable": false,
+  "labels": {
+    "de_DE": "Auto exposure",
+    "en_US": "Auto exposure",
+    "fr_FR": "Auto exposure"
+  },
+  "unique": false,
+  "useable_as_grid_filter": true,
+  "allowed_extensions": null,
+  "metric_family": null,
+  "default_metric_unit": null,
+  "reference_data_name": null,
+  "available_locales": null,
+  "max_characters": null,
+  "validation_rule": null,
+  "validation_regexp": null,
+  "wysiwyg_enabled": null,
+  "number_min": null,
+  "number_max": null,
+  "decimals_allowed": null,
+  "negative_allowed": null,
+  "date_min": null,
+  "date_max": null,
+  "max_file_size": null,
+  "minimum_input_length": null,
+  "sort_order": 39
+}

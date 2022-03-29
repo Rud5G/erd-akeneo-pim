@@ -1,0 +1,16 @@
+{
+  "code": "marketing",
+  "sort_order": 4,
+  "attributes": [
+    "sku",
+    "name",
+    "description",
+    "response_time",
+    "release_date",
+    "price"
+  ],
+  "labels": {
+    "en_US": "Marketing",
+    "fr_FR": "Marketing"
+  }
+}

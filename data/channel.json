@@ -1,0 +1,21 @@
+{
+  "code": "ecommerce",
+  "currencies": [
+    "USD",
+    "EUR"
+  ],
+  "locales": [
+    "de_DE",
+    "en_US",
+    "fr_FR"
+  ],
+  "category_tree": "master",
+  "conversion_units": {
+    "weight": "KILOGRAM"
+  },
+  "labels": {
+    "en_US": "Ecommerce",
+    "de_DE": "Ecommerce",
+    "fr_FR": "Ecommerce"
+  }
+}

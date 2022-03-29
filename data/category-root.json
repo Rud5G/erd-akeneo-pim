@@ -1,0 +1,10 @@
+{
+  "code": "master",
+  "parent": null,
+  "updated": "2021-04-21T10:41:02+02:00",
+  "labels": {
+    "en_US": "Master catalog",
+    "de_DE": "Hauptkatalog",
+    "fr_FR": "Catalogue principal"
+  }
+}

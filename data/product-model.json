@@ -1,0 +1,84 @@
+{
+  "code": "model-biker-jacket-leather",
+  "family": "clothing",
+  "family_variant": "clothing_material_size",
+  "parent": "model-biker-jacket",
+  "categories": [
+    "summer_collection"
+  ],
+  "values": {
+    "color": [
+      {
+        "locale": null,
+        "scope": null,
+        "data": "antique_white"
+      }
+    ],
+    "material": [
+      {
+        "locale": null,
+        "scope": null,
+        "data": "leather"
+      }
+    ],
+    "variation_name": [
+      {
+        "locale": "en_US",
+        "scope": null,
+        "data": "Biker jacket leather"
+      }
+    ],
+    "name": [
+      {
+        "locale": "en_US",
+        "scope": null,
+        "data": "Biker jacket"
+      }
+    ],
+    "collection": [
+      {
+        "locale": null,
+        "scope": null,
+        "data": [
+          "summer_2017"
+        ]
+      }
+    ],
+    "description": [
+      {
+        "locale": "en_US",
+        "scope": "ecommerce",
+        "data": "Biker jacket"
+      }
+    ]
+  },
+  "associations": {
+    "PACK": {
+      "products": [
+        "sunglass"
+      ],
+      "product_models": [],
+      "groups": []
+    }
+  },
+  "quantified_associations": {
+    "PRODUCT_SET": {
+      "products": [
+        {
+          "identifier": "top",
+          "quantity": 2
+        },
+        {
+          "identifier": "cap",
+          "quantity": 1
+        }
+      ],
+      "product_models": [
+        {
+          "code": "model-biker-jacket-leather",
+          "quantity": 2
+        }
+      ]
+    }
+  }
+}

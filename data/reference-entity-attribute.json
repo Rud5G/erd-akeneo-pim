@@ -1,0 +1,16 @@
+{
+  "code": "description",
+  "labels": {
+    "en_US": "Description",
+    "fr_FR": "Description"
+  },
+  "type": "text",
+  "value_per_locale": true,
+  "value_per_channel": false,
+  "is_required_for_completeness": true,
+  "max_characters": null,
+  "is_textarea": true,
+  "is_rich_text_editor": true,
+  "validation_rule": "none",
+  "validation_regexp": null
+}
